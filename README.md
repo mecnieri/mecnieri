@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a passionate front-end and game developer with a knack for creating interactive and visually stunning experiences. Combining creativity with technical expertise, I specialize in crafting seamless user interfaces and engaging gameplay mechanics. With a strong eye for design and a deep understanding of modern development tools, I bring ideas to life that captivate and inspire.
+
+When I’m not coding, you can find me exploring the latest trends in gaming, experimenting with new technologies, or diving into creative side projects that push the boundaries of what’s possible.
+
